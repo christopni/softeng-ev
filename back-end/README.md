@@ -1,4 +1,4 @@
-# back-end
+# Back-end
 
   ### Setting up the back-end server:
   To setup your backend server you first need to install all the python dependencies with:
