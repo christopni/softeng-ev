@@ -1,0 +1,79 @@
+{
+    "ID": "skatula",
+    "PointOperator": "example glossary",
+	"RequestTimestamp": "itsme",
+    "PeriodFrom": "Sa",
+    "PeriodTo": "Sb",
+    "NumberOfChargingSessions": "Sd",
+	"LocationsList": [
+        {
+            "LocationID": "1",
+            "Address": "A",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 5
+        },
+        {
+            "LocationID": "2",
+            "Address": "B",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 2
+        },
+        {
+            "LocationID": "3",
+            "Address": "B",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 7
+        },        {
+            "LocationID": "4",
+            "Address": "B",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 1
+        },        {
+            "LocationID": "5",
+            "Address": "B",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 3
+        },        {
+            "LocationID": "6",
+            "Address": "D",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 6
+        },
+        {
+            "LocationID": "7",
+            "Address": "C",
+            "OperatorName": "SGML",
+            "AddressRegion": "Standard Generalized Markup Language",
+            "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 2
+        },
+        {
+            "LocationID": "8",
+            "Address": "A",
+		    "OperatorName": "SGML",
+		    "AddressRegion": "Standard Generalized Markup Language",
+		    "EnergyDelivered": "ISO 8879:1986",
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 4
+        }          
+    ]
+}

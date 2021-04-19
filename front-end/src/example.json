@@ -1,0 +1,87 @@
+{
+    "Point": "Hemlo",
+    "PointOperator": "example glossary",
+	"RequestTimestamp": "itsme",
+    "PeriodFrom": "Sa",
+    "PeriodTo": "Sb",
+    "NumberOfChargingSessions": "Sd",
+	"ChargingSessionsList": [
+        {
+            "SessionIndex": "hehe",
+            "StationID": "A",
+            "StartedOn": "SGML",
+            "FinishedOn": "2018-12-01 12:12:21",
+            "Protocol": "slow",
+            "EnergyDelivered": 9,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 5
+        },
+        {
+            "SessionIndex": "hihi",
+            "StationID": "B",
+            "StartedOn": "SGML",
+            "FinishedOn": "2018-11-01 12:12:21",
+            "Protocol": "fast",
+            "EnergyDelivered": 14,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 2
+        },
+        {
+            "SessionIndex": "hihi",
+            "StationID": "B",
+            "StartedOn": "SGML",
+            "FinishedOn": "2018-01-01 12:12:21",
+            "Protocol": "slow",
+            "EnergyDelivered": 8,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 7
+        },        {
+            "SessionIndex": "hihi",
+            "StationID": "B",
+            "StartedOn": "slow",
+            "FinishedOn": "2018-03-01 12:12:21",
+            "Protocol": "slow",
+            "EnergyDelivered": 10,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 1
+        },        {
+            "SessionIndex": "hihi",
+            "StationID": "B",
+            "StartedOn": "slow",
+            "FinishedOn": "2018-10-01 12:12:21",
+            "Protocol": "slow",
+            "EnergyDelivered": 5,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 3
+        },        {
+            "SessionIndex": "hihi",
+            "StationID": "D",
+            "StartedOn": "SGML",
+            "FinishedOn": "2018-12-01 12:12:21",
+            "Protocol": "fast",
+            "EnergyDelivered": 4,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 6
+        },
+        {
+            "SessionIndex": "hihi",
+            "StationID": "C",
+            "StartedOn": "fast",
+            "FinishedOn": "2018-12-01 12:12:21",
+            "Protocol": "fast",
+            "EnergyDelivered": 13,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 2
+        },
+        {
+            "SessionIndex": "huehue",
+            "StationID": "A",
+		    "StartedOn": "fast",
+		    "FinishedOn": "2018-12-01 12:12:21",
+		    "Protocol": "fast",
+		    "EnergyDelivered": 1,
+            "Payement": "A meta-markup language, used to create markup languages such as DocBook.",
+            "TotalCost": 4
+        }          
+    ]
+}

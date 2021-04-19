@@ -1,0 +1,39 @@
+input[type=text], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+button[type=submit] {
+  background-color: #374a57;
+  width: 100%;
+  color: white;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+button[type=submit]:hover {
+  background-color: #445d6e;
+}
+
+.rowform {
+  padding: 5px 0px;
+}
+
+
+.rowform:after {
+  content: "";
+  display: table;
+  clear: both;
+  float: left;
+  width: 150%;
+  margin-top: 18px;
+}
+
+.column.right form {
+  width: 90%;
+}
