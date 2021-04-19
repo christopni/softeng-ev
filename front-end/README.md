@@ -4,7 +4,7 @@
 ### Before you run the app, you'll need to install:
 1.
 ```
-Node >= 10.16
+Node.js >= 10.16
 ```
 Then, open your command line and run:
 
@@ -37,7 +37,7 @@ npm i react-select
 npm install moment --save
 ```
 
-Finally, run the following instructions ("my-app" is the name of your application):
+Now, run the following instructions ("my-app" is the name of your application):
 
 ```
 npx create-react-app my-app
@@ -49,4 +49,4 @@ cd my-app
 npm start
 ```
 
-Αντικαταστήστε τα αρχεία και τους φακέλους που είναι ίδια στον φάκελο που δημιουργήθηκε με όσα περιέχονται στο frond-end.
+Finally, in the created folder replace the files that are the same with the ones included in the front-end folder of this repository.
