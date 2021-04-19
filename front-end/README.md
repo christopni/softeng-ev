@@ -1,4 +1,4 @@
-# front-end
+# Front-end
 
 
 ### Before you run the app, you'll need to install:
