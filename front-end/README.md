@@ -1,11 +1,13 @@
-# Front-end
+# front-end
 
 
-### Πρίν τρέξετε την εφαρμογή χρειάζεται να εγκαταστήσετε τα παρακάτω:
+### Before you run the app, you'll need to install:
 1.
 ```
 Node >= 10.16
 ```
+Then, open your command line and run:
+
 2.
 ```
 npm i npm-install
@@ -35,7 +37,7 @@ npm i react-select
 npm install moment --save
 ```
 
-Ύστερα, τρέξτε τις παρακάτω εντολές, όπου my-app το όνομα της εφαρμογής:
+Finally, run the following instructions ("my-app" is the name of your application):
 
 ```
 npx create-react-app my-app
