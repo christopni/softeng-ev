@@ -1,6 +1,11 @@
-# GROUP 50
+# softeng-ev
 
 -------------------------------------------
+       Course: Software Engineering
+       Semester: 7th
+       Year: 2021
+       Team: group_50
+       
        TEAM MEMBERS
        Ageridis Georgios
        Christodoulea Effrosyni
