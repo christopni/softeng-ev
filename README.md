@@ -10,19 +10,22 @@
        Kritharoula Anastasia
 -------------------------------------------
 
-The main subject of this project is the management of the ev-charging stations network. We presume taht the charging points are stationed in public or private areas, such as public parking areas, parking spots, gas stations, private parkings etc. The stakeholders that we examine in this particular project are the electronic vehicle owners, the energy providers, the parking owners as well as the municipalities that own public parking spaces. One or more use cases that we developed are assigned to each stakeholder. 
-Car owners have the ability to charge their vehicles, to see the nearest available charging stations as well as to pay their past-due monthly bills. Parking owners and municipalities have access to statistics of their charging stations. Futhermore, they can add, delete or modify a charging spot. Finally, the energy providers can see statistics for all the chraging stations they provide electricity to.    
+Αντικείμενο της εργασίας αυτής είναι το πρόβλημα της διαχείρισης της φόρτισης ηλεκτρικών
+οχημάτων, η οποία πραγματοποιείται σε σταθμούς που είναι εγκατεστημένοι σε δημόσιους ή
+ιδιωτικούς χώρους, όπως οι δημοτικοί χώροι στάθμευσης στο δρόμο, οι οργανωμένοι χώροι
+στάθμευσης (parking), τα πρατήρια καυσίμων, τα ιδιωτικά οικιακά parking, κ.ά.
+Στην παρούσα εργασία ως stakeholders συναντάμε τους ιδιοκτήτες αυτοκινήτων, τους παρόχους ηλεκτρικής ενέργειας, τους ιδιοκτήτες parking καθώς και τους δήμους. Σε καθέναν από αυτούς αντιστοιχίζονται και κάποια από τα υλοποιημένα use cases. Οι ιδιοκτήτες αυτοκινήτων έχουν τη δυνατότητα να φορτίσουν το αυτοκίνητό τους, να δούν όλους τους κοντινούς τους διαθέσιμους σταθμούς προς φόρτιση, απεικονισμένους σε χάρτη καθώς και να πληρώσουν το μηνιαίο λογαριασμό τους σε περίπτωση που έχουν επιλέξει μηνιαίο τρόπο πληρωμής. Οι ιδιοκτήτες parking και οι δήμοι έχουν τη δυνατότητα να δουν στατιστικά για τους σταθμούς που τους ανήκουν, ενώ έχουν επιπλέον τη δυνατότητα να δημιουργήσουν, να διαγράψουν ακόμα και να τροποποιήσουν υπάρχντες σταθμούς τους. Τέλος, οι πάροχοι ηλεκτρικής ενέργειας έχουν τη δυνατότητα να να δούν στατιστικά για τους σταθμούς τους οποίους προμηθεύουν.    
 
 ## Directory structure
 
 **/documentation**
-- documentation files and diagrams
+- έγγραφα τεκμηρίωσης και διαγράμματα
 
 **/back-end**
-- source code and back-end testing of our app
+- πηγαίος κώδικας και έλεγχοι του back-end της εφαρμογής
 
 **/cli-client**
-- source code and CLI-client testing
+- πηγαίος κώδικας και έλεγχοι του CLI client
 
 **/front-end**
-- source code and front-end testing of our app
+- πηγαίος κώδικας και έλεγχοι του front-end της εφαρμογής
