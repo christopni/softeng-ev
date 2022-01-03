@@ -46,7 +46,7 @@ needed for the CLI tool to run as well as
 create the CLI tool named **ev_group50.**
 
 Now, open the file paths.py and fill the
-"folder" variable in eith an existing path
+"folder" variable in with an existing path
 in your system.
 
 ```folder='C:/Users/example/cli-client/'```
